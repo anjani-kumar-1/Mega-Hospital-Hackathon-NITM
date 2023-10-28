@@ -6,4 +6,4 @@
 - Mrinmoy Maji (B22CS036)
 - Institute: NIT Meghalaya
 # Deployed Website URL:
--https://glittering-rolypoly-80e34a.netlify.app/
+-https://remarkable-sopapillas-c716bf.netlify.app/
